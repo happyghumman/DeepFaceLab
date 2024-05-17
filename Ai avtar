@@ -1,0 +1,4 @@
+git clone <repository_url>
+git add <edited_image_files>
+git commit -m "Swapped faces in images"
+git push origin <branch_name>
